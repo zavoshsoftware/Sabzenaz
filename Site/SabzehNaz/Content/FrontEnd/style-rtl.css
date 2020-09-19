@@ -1,0 +1,95 @@
+﻿@font-face {
+    font-family: 'Iransans';
+    src: url(/fonts/IranSans/IRANSansWebFaNum.eot) format('embedded-opentype'), url(/fonts/IranSans/IRANSansWebFaNum.woff2) format('woff2'), url(/fonts/IranSans/IRANSansWebFaNum.woff) format('woff'), url(/fonts/IranSans/IRANSansWebFaNum.ttf) format('truetype');
+}
+
+body, p, a, h1, h2, h3, h4, h5, h6, ul, li, input, button, table, th, td{
+    font-family: IRANSans;
+}
+
+.dirrtl {
+    direction: rtl;
+    text-align: right;
+}
+.header-nav {
+    direction: rtl;
+    text-align: right;
+}
+
+    .header-nav .nav > li > a {
+        font-size: 17px;
+        padding: 39px 10px 35px 10px;
+    }
+
+
+.welcom-to-section .wt-small-separator-outer, .welcom-to-section h2, .welcom-to-section p {
+    text-align: right;
+    direction: rtl;
+}
+
+.welcom-to-section h2 {
+    text-align: right;
+}
+
+.welcom-to-section-bottom {
+    direction: rtl;
+}
+
+.masonry-filter {
+    direction: rtl;
+}
+.discount-add-info {
+    text-align: right;
+    direction: rtl;
+}.discount-add-info .wt-small-separator-outer, .discount-add-info h2, .discount-add-info p {
+    text-align: right;
+}
+
+.home-contact-section .wt-small-separator-outer, .home-contact-section h2 {
+    direction: rtl;
+    text-align: right;
+}
+
+h2 {
+    font-size: 38px;
+}
+
+.home-contact-section  input, .home-contact-section  textarea {
+    text-align: right;
+}
+
+.post-date span {
+    direction: rtl;
+}
+
+.logo-footer {
+    direction: rtl;
+    text-align: right;
+}
+
+.widget_about p {
+    direction: rtl;
+    text-align: justify;
+}
+
+.newsletter-input .input-group {
+    direction: rtl;
+}
+
+.widget-title {
+    direction: rtl;
+    text-align: right;
+}
+.site-footer .widget_services ul li a {
+    direction: rtl;
+    text-align: right;
+}
+
+.wt-footer-bot-left {
+    direction: rtl;
+    text-align: right;
+}
+
+.newsletter-input input:-ms-input-placeholder{
+    color: #fff;
+}
